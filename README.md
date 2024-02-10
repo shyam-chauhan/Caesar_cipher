@@ -11,7 +11,7 @@
   git clone https://github.com/shyam-chauhan/Caesar_cipher/
   ```
 - Nevigate to file location
-```bash
+  ```bash
   cd Caesar_cipher 
   ```
 
